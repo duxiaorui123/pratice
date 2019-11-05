@@ -125,12 +125,16 @@
   <ItemGroup>
     <ClCompile Include="1.c" />
     <ClCompile Include="paixu.c" />
+    <ClCompile Include="函数指针.c" />
+    <ClCompile Include="指向指针的指针.c" />
+    <ClCompile Include="递归.c" />
     <ClCompile Include="阶乘.c" />
     <ClCompile Include="冒泡排序.c" />
     <ClCompile Include="动态一维数组-2.c" />
     <ClCompile Include="动态一维数组.c" />
     <ClCompile Include="数组.c" />
     <ClCompile Include="练习.c" />
+    <ClCompile Include="随机数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
