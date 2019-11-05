@@ -33,5 +33,11 @@
     <ClCompile Include="冒泡排序.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="阶乘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="paixu.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

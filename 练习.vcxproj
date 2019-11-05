@@ -124,6 +124,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.c" />
+    <ClCompile Include="paixu.c" />
+    <ClCompile Include="阶乘.c" />
     <ClCompile Include="冒泡排序.c" />
     <ClCompile Include="动态一维数组-2.c" />
     <ClCompile Include="动态一维数组.c" />
